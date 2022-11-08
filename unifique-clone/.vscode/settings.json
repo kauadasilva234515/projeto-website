@@ -39,7 +39,7 @@
     "dotenv": "tune"
   },
   "typescript.updateImportsOnFileMove.enabled": "never",
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Visual Studio Dark",
   "material-icon-theme.files.associations": {
     "tsconfig.json": "tune",
     "*.webpack.js": "webpack",
@@ -133,11 +133,11 @@
   "editor.tabSize": 4,
   "security.workspace.trust.untrustedFiles": "newWindow",
   "files.exclude": {
-    "**\/CVS": true,
-    "**\/.DS_Store": true,
-    "**\/.hg": true,
-    "**\/.svn": true,
-    "**\/.git": true
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/.git": true
   },
   "tabnine.experimentalAutoImports": true,
   "gitlens.codeLens.enabled": false,
